@@ -1,0 +1,85 @@
+{
+  "videos": [
+    {
+      "id": "23bc",
+      "caption": "Manjummel Boys-Trailer",
+      "imageURL": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/manjummel-boys-et00386670-1707452965.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/id848Ww1YLo"
+    },
+    {
+      "id": "77e4",
+      "caption": "Bramayugam",
+      "imageURL": "https://th.bing.com/th?id=OIF.FqveRDfhs80yOvQVr%2f3KRA&rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM"
+    },
+    {
+      "id": "2c43",
+      "caption": "Oppenheimer",
+      "imageURL": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/07/oppenheimer_xlg.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/uYPbbksJxIg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "4a4c",
+      "categoryName": "movies",
+      "allvideos": [
+        {
+          "id": "77e4",
+          "caption": "Bramayugam",
+          "imageURL": "https://th.bing.com/th?id=OIF.FqveRDfhs80yOvQVr%2f3KRA&rs=1&pid=ImgDetMain",
+          "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM"
+        },
+        {
+          "id": "2c43",
+          "caption": "Oppenheimer",
+          "imageURL": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/07/oppenheimer_xlg.jpeg",
+          "youtubeLink": "https://www.youtube.com/embed/uYPbbksJxIg"
+        }
+      ]
+    },
+    {
+      "id": "c302",
+      "categoryName": "Trailers",
+      "allvideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "cd12",
+      "caption": "Bramayugam",
+      "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM",
+      "timeStamp": "02/23/2024, 04:52:58 PM"
+    },
+    {
+      "id": "0470",
+      "caption": "Manjummel Boys-Trailer",
+      "youtubeLink": "https://www.youtube.com/embed/id848Ww1YLo",
+      "timeStamp": "02/23/2024, 05:39:59 PM"
+    },
+    {
+      "id": "6a2c",
+      "caption": "Oppenheimer Trailer",
+      "youtubeLink": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "timeStamp": "02/23/2024, 05:40:03 PM"
+    },
+    {
+      "id": "b250",
+      "caption": "Oppenheimer",
+      "youtubeLink": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "timeStamp": "02/26/2024, 11:05:58 AM"
+    },
+    {
+      "id": "a592",
+      "caption": "Manjummel Boys-Trailer",
+      "youtubeLink": "https://www.youtube.com/embed/id848Ww1YLo",
+      "timeStamp": "02/27/2024, 07:03:28 PM"
+    },
+    {
+      "id": "b1e9",
+      "caption": "Bramayugam",
+      "youtubeLink": "https://www.youtube.com/embed/55pzldrBRJM",
+      "timeStamp": "02/27/2024, 07:12:22 PM"
+    }
+  ]
+}
